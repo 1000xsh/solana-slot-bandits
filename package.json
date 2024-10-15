@@ -1,10 +1,10 @@
 {
   "name": "slot-bandits",
   "version": "1.0.0",
-  "main": "src/slot-bandits.ts",
+  "main": "slot-bandits.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "ts-node src/slot-bandits.ts"
+    "start": "ts-node slot-bandits.ts"
   },
   "keywords": [],
   "author": "",
